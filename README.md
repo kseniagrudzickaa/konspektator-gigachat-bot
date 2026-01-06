@@ -50,7 +50,9 @@
 ```bash
 pip install -r requirements.txt
 
-## Создать файл .env (по образцу .env.example)
+---
+
+## Создать файл `.env` (по образцу `.env.example`)
 GIGACHAT_CLIENT_SECRET=ваш_ключ_GigaChat
 GIGACHAT_SCOPE=GIGACHAT_API_PERS
 TELEGRAM_BOT_TOKEN=токен_бота_из_BotFather
