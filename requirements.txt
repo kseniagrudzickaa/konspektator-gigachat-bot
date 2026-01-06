@@ -1,0 +1,4 @@
+gigachat
+python-dotenv
+pyTelegramBotAPI
+requests
